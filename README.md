@@ -16,20 +16,20 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&color=0:%230D1117,50:%234338CA,100:%237C3AED&height=220&section=header&text=Abhishek%20Pattar&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=BCA%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Explorer&descAlignY=65&descSize=18" width="100%" alt="Abhishek Pattar Profile Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&color=0:%230D1117,50:%234338CA,100:%237C3AED&height=240&section=header&text=Abhishek%20Pattar&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=BCA%20Student%20%7C%20Software%20Engineer%20%7C%20AI%20Explorer&descAlignY=62&descSize=16" width="100%" alt="Abhishek Pattar Profile Banner"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=BCA+Student+%7C+Aspiring+Software+Engineer;Full-Stack+Development+%7C+MERN+Stack;Exploring+Artificial+Intelligence+%26+ML;Learning+%E2%80%A2+Building+%E2%80%A2+Innovating" alt="Abhishek Pattar Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Abhishek+Pattar;BCA+Student+%7C+Aspiring+Software+Engineer;Full-Stack+Development+%7C+MERN+Stack;Exploring+Artificial+Intelligence+%26+ML" alt="Typing SVG"/>
 </h1>
 
 <br>
 
 <p align="center">
-  <a href="#about-me"><b>About</b></a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
-  <a href="#tech-stack"><b>Tech Stack</b></a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
-  <a href="#achievements"><b>Achievements</b></a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
-  <a href="#connect-with-me"><b>Connect</b></a>
+  <a href="#-about-me"><b>About</b></a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <a href="#-tech-stack"><b>Tech Stack</b></a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <a href="#-achievements--recognition"><b>Achievements</b></a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <a href="#-connect-with-me"><b>Connect</b></a>
 </p>
 
 <br>
@@ -54,22 +54,34 @@ I am a passionate Bachelor of Computer Applications (BCA) student with a keen in
 
 ### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,c,js,php" alt="Python, Java, C, JavaScript, PHP"/>
+  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,php,ts" alt="Programming Languages"/>
 </p>
 
 ### Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite,jquery" alt="HTML, CSS, Tailwind, React, Vite, jQuery"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" alt="Frontend Tech"/>
 </p>
 
 ### Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Node.js, Express, MongoDB, MySQL, Firebase"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" alt="Backend and Databases"/>
 </p>
 
-### Tools & Platforms
+### Tools, Platforms & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker" alt="Git, GitHub, VS Code, Linux, Postman, Docker"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Antigravity-0D1117?style=for-the-badge&logo=rocket&logoColor=7C3AED" alt="Antigravity"/>
+</p>
+
+---
+
+## 🐍 GitHub Contributions Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekpattar07/abhishekpattar07/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishekpattar07/abhishekpattar07/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhishekpattar07/abhishekpattar07/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
@@ -87,18 +99,6 @@ I am a passionate Bachelor of Computer Applications (BCA) student with a keen in
 | **2024** | **National-Level IT Fest (Acumen)** | KLE P.C. Jabin College, Hubballi | **Runner-up** |
 
 </div>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekpattar07/abhishekpattar07/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishekpattar07/abhishekpattar07/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhishekpattar07/abhishekpattar07/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 
 ---
 
