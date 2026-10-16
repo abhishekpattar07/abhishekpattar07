@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&color=0:%230D1117,50:%234338CA,100:%237C3AED&height=240&section=header&text=Abhishek%20Pattar&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=BCA%20Student%20%7C%20Software%20Engineer%20%7C%20AI%20Explorer&descAlignY=62&descSize=16" width="100%" alt="Abhishek Pattar Profile Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:4338CA,100:7C3AED&height=220&section=header&text=Abhishek%20Pattar&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=BCA%20Student%20%7C%20Software%20Engineer%20%7C%20AI%20Explorer&descAlignY=65&descSize=18" width="100%" alt="Abhishek Pattar Profile Banner"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Abhishek+Pattar;BCA+Student+%7C+Aspiring+Software+Engineer;Full-Stack+Development+%7C+MERN+Stack;Exploring+Artificial+Intelligence+%26+ML" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Abhishek+Pattar;BCA+Student+%7C+Aspiring+Software+Engineer;Full-Stack+Development+%7C+MERN+Stack;Exploring+Artificial+Intelligence+%26+ML" alt="Typing SVG"/>
 </h1>
 
 <br>
@@ -132,5 +132,5 @@ I am a passionate Bachelor of Computer Applications (BCA) student with a keen in
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&color=0:%237C3AED,50:%234338CA,100:%230D1117&height=150&section=footer" width="100%" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4338CA,100:0D1117&height=150&section=footer" width="100%" alt="Footer Banner"/>
 </p>
