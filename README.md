@@ -168,10 +168,7 @@ I continuously work on improving my technical knowledge through academic learnin
 
 ## GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishekpattar07&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
-</p>
-
+<img src="https://github-profile-trophy.vercel.app/?username=abhishekpattar07&theme=darkhub&no-frame=true" width="100%" />
 ---
 
 ## Contribution Activity
