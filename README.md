@@ -16,201 +16,121 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:4338CA,100:7C3AED&height=200&section=header&text=Abhishek%20Pattar&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Development%20%7C%20Full%20Stack%20%7C%20AI&descAlignY=60&descSize=16" width="100%" alt="Profile Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&color=0:%230D1117,50:%234338CA,100:%237C3AED&height=220&section=header&text=Abhishek%20Pattar&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=BCA%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Explorer&descAlignY=65&descSize=18" width="100%" alt="Abhishek Pattar Profile Banner"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=BCA+Student+%7C+Developer;Full-Stack+Development;Exploring+Artificial+Intelligence;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=BCA+Student+%7C+Aspiring+Software+Engineer;Full-Stack+Development+%7C+MERN+Stack;Exploring+Artificial+Intelligence+%26+ML;Learning+%E2%80%A2+Building+%E2%80%A2+Innovating" alt="Abhishek Pattar Typing SVG"/>
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/BCA-2024--2027-4338CA?style=for-the-badge" alt="BCA"/>
-  <img src="https://img.shields.io/badge/CGPA-8.4%2F10-6366F1?style=for-the-badge" alt="CGPA"/>
-  <img src="https://img.shields.io/badge/Location-Karnataka%2C%20India-7C3AED?style=for-the-badge" alt="Location"/>
-</p>
+<br>
 
 <p align="center">
-  <a href="https://github.com/abhishekpattar07">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abhishek-pattar07/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
+  <a href="#about-me"><b>About</b></a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <a href="#tech-stack"><b>Tech Stack</b></a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <a href="#achievements"><b>Achievements</b></a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <a href="#connect-with-me"><b>Connect</b></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishekpattar07&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" alt="Profile Views"/>
-</p>
+<br>
+
+## 🔭 About Me
+
+<div align="center">
+
+| 🎓 Education | 📍 Location | 💼 Status | 🎯 Focus |
+| :--- | :--- | :--- | :--- |
+| **BCA (2024–2027)**<br>A.S. Patil College of Commerce (Autonomous), Vijayapura | 🇮🇳 **Karnataka, India** | 🟢 **Open to Opportunities** | 💻 **Software & AI Development** |
+
+</div>
+
+<br>
+
+I am a passionate Bachelor of Computer Applications (BCA) student with a keen interest in **Full-Stack Development (MERN Stack)** and **Artificial Intelligence**. I love turning complex problems into elegant, functional software solutions, participating in hackathons, and continuously improving my engineering skills.
 
 ---
 
-## About Me
-
-I am a Bachelor of Computer Applications student at A.S. Patil College of Commerce (Autonomous), Vijayapura, Karnataka. I am interested in software development, full-stack engineering, and Artificial Intelligence.
-
-I enjoy learning new technologies, solving technical problems, and participating in hackathons and technical competitions. My goal is to strengthen my engineering skills and contribute to useful software solutions.
-
-- 🎓 Pursuing BCA (2024–2027).
-- 💻 Interested in software and full-stack development.
-- 🤖 Exploring Artificial Intelligence and its applications.
-- 🏆 Participating in hackathons and technical competitions.
-- 🌱 Continuously improving my programming and problem-solving skills.
-- 🤝 Open to internships, open-source contributions, and collaboration.
-
----
-
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,php" alt="Programming Languages"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,java,c,js,php" alt="Python, Java, C, JavaScript, PHP"/>
 </p>
 
 ### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite" alt="Frontend Technologies"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite,jquery" alt="HTML, CSS, Tailwind, React, Vite, jQuery"/>
 </p>
 
 ### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend and Databases"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Node.js, Express, MongoDB, MySQL, Firebase"/>
 </p>
 
 ### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Development Tools"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker" alt="Git, GitHub, VS Code, Linux, Postman, Docker"/>
 </p>
 
 ---
 
-## AI / ML Interests
+## 🏆 Achievements & Recognition
 
-| Domain | Focus | Details |
-|:---|:---|:---|
-| Artificial Intelligence | Exploring | Practical AI applications |
-| Explainable AI | Learning | Understanding AI outputs and reasoning |
-| Machine Learning | Learning | Core concepts and applications |
-| AI-Powered Applications | Exploring | Integrating AI into useful software |
-| Data Analytics | Learning | Data processing and interpretation |
+<div align="center">
 
----
+| Year | Event/Competition | Organizer | Recognition |
+| :--- | :--- | :--- | :--- |
+| **2026** | **IEEE GAMEATHON** | IEEE | **Second Place** |
+| **2026** | **Hackathon for Human-Centered Design of LLM Interfaces** | IIIT Pune ACM SIGCHI & IIT Bombay ACM SIGCHI | **Selected (Top Tier)** |
+| **2025** | **VTU Hackathon** | Visvesvaraya Technological University (VTU) | **Top 16 Finalist** (from 790+ participants) |
+| **2025** | **AI Arena 2.0** | BLDEA's CET, Vijayapura | **Fourth Place** |
+| **2024** | **National-Level IT Fest (Acumen)** | KLE P.C. Jabin College, Hubballi | **Runner-up** |
 
-## Experience
-
-### Web Development Intern — SkillCraft Technology
-
-**Role:** Web Development Intern
-
-Gaining practical experience in web development through tasks involving responsive interfaces and interactive website functionality.
-
-**Areas of Work**
-- Creating web page layouts using HTML and CSS.
-- Implementing interactive features with JavaScript.
-- Developing responsive user interfaces.
-- Using Git and GitHub for version control.
-- Improving frontend development and debugging skills.
-
-**Technologies:** HTML · CSS · JavaScript · Git · GitHub
+</div>
 
 ---
 
-## Achievements
-
-| Recognition | Details |
-|:---|:---|
-| National-Level IT Fest — KLE P.C. Jabin College, Hubballi | Runner-up — Acumen IT Fest |
-| AI Arena 2.0 — BLDEA's V.P. Dr. P.G. Halakatti College of Engineering & Technology, Vijayapura | Fourth Place |
-| IEEE GAMEATHON | Second Place — September 2026 |
-| VTU Hackathon | Selected among the Top 16 from 790 online participants |
-
----
-
-## Certifications & Learning
-
-I continuously work on improving my technical knowledge through academic learning and hands-on practice.
-
-| Area | Focus |
-|:---|:---|
-| Web Development | HTML, CSS, JavaScript |
-| Programming | Python, Java, C, PHP |
-| Databases | MySQL, MongoDB, Firebase |
-| Version Control | Git and GitHub |
-| Artificial Intelligence | AI applications and foundational concepts |
-
----
-
-## Coding Profiles
+## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <a href="https://github.com/abhishekpattar07">
-    <img src="https://img.shields.io/badge/GitHub-abhishekpattar07-4338CA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekpattar07/abhishekpattar07/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishekpattar07/abhishekpattar07/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhishekpattar07/abhishekpattar07/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhishekpattar07&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C9D1D9" alt="GitHub Statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpattar07&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekpattar07&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpattar07&layout=compact&hide_border=true&theme=radical&langs_count=6" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhishekpattar07&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=abhishekpattar07&hide_border=true&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-
-
-## Current Focus
-
-```yaml
-learning:
-  - Full-Stack Development
-  - Data Structures and Algorithms
-  - Artificial Intelligence
-  - Database Management
-  - Software Engineering
-
-exploring:
-  - Explainable AI
-  - Open-Source Contributions
-  - Product Engineering
-  - Hackathons
-
-open_to:
-  - Internships
-  - Hackathons
-  - Open-Source Contributions
-  - Collaborative Opportunities
-  - Freelance Development
-```
-
----
-
-## Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/abhishekpattar07">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="mailto:abhishekpattar07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/abhishek-pattar07/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://github.com/abhishekpattar07">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
----
+<br>
 
 <p align="center">
-  <i>"Build with purpose. Learn continuously. Create meaningful impact."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4338CA,100:0D1117&height=100&section=footer" width="100%" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&color=0:%237C3AED,50:%234338CA,100:%230D1117&height=150&section=footer" width="100%" alt="Footer Banner"/>
 </p>
