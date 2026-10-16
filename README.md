@@ -166,26 +166,7 @@ I continuously work on improving my technical knowledge through academic learnin
 
 ---
 
-## GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=abhishekpattar07&theme=darkhub&no-frame=true" width="100%" />
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekpattar07&bg_color=0D1117&color=A78BFA&line=6366F1&point=C4B5FD&area=true&hide_border=true" width="100%" alt="Contribution Activity"/>
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhishekpattar07/abhishekpattar07/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</p>
-
----
 
 ## Current Focus
 
